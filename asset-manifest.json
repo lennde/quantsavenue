@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quantsavenue/static/css/main.d1b05096.chunk.css",
+    "main.js": "/quantsavenue/static/js/main.0fc766c9.chunk.js",
+    "main.js.map": "/quantsavenue/static/js/main.0fc766c9.chunk.js.map",
+    "runtime-main.js": "/quantsavenue/static/js/runtime-main.bba243bc.js",
+    "runtime-main.js.map": "/quantsavenue/static/js/runtime-main.bba243bc.js.map",
+    "static/js/2.b1212bfe.chunk.js": "/quantsavenue/static/js/2.b1212bfe.chunk.js",
+    "static/js/2.b1212bfe.chunk.js.map": "/quantsavenue/static/js/2.b1212bfe.chunk.js.map",
+    "index.html": "/quantsavenue/index.html",
+    "precache-manifest.e59899f0cb2727bede215d5a383889f7.js": "/quantsavenue/precache-manifest.e59899f0cb2727bede215d5a383889f7.js",
+    "service-worker.js": "/quantsavenue/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/quantsavenue/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b1212bfe.chunk.js.LICENSE": "/quantsavenue/static/js/2.b1212bfe.chunk.js.LICENSE",
+    "static/media/logo.svg": "/quantsavenue/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba243bc.js",
+    "static/js/2.b1212bfe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0fc766c9.chunk.js"
+  ]
+}
