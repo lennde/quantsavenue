@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quantsavenue/static/css/main.a3790e5a.chunk.css",
-    "main.js": "/quantsavenue/static/js/main.c14d4005.chunk.js",
-    "main.js.map": "/quantsavenue/static/js/main.c14d4005.chunk.js.map",
+    "main.js": "/quantsavenue/static/js/main.39d9b995.chunk.js",
+    "main.js.map": "/quantsavenue/static/js/main.39d9b995.chunk.js.map",
     "runtime-main.js": "/quantsavenue/static/js/runtime-main.bba243bc.js",
     "runtime-main.js.map": "/quantsavenue/static/js/runtime-main.bba243bc.js.map",
     "static/css/2.17e5ed98.chunk.css": "/quantsavenue/static/css/2.17e5ed98.chunk.css",
     "static/js/2.b1013e51.chunk.js": "/quantsavenue/static/js/2.b1013e51.chunk.js",
     "static/js/2.b1013e51.chunk.js.map": "/quantsavenue/static/js/2.b1013e51.chunk.js.map",
     "index.html": "/quantsavenue/index.html",
-    "precache-manifest.2e93bab692ca88b898c3a0909ea1b063.js": "/quantsavenue/precache-manifest.2e93bab692ca88b898c3a0909ea1b063.js",
+    "precache-manifest.c84106a4e1ced47de47022126d6ac3a3.js": "/quantsavenue/precache-manifest.c84106a4e1ced47de47022126d6ac3a3.js",
     "service-worker.js": "/quantsavenue/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/quantsavenue/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.a3790e5a.chunk.css.map": "/quantsavenue/static/css/main.a3790e5a.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.b1013e51.chunk.js",
     "static/css/main.a3790e5a.chunk.css",
-    "static/js/main.c14d4005.chunk.js"
+    "static/js/main.39d9b995.chunk.js"
   ]
 }
