@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/quantsavenue/static/css/main.a3790e5a.chunk.css",
-    "main.js": "/quantsavenue/static/js/main.9ba2ba75.chunk.js",
-    "main.js.map": "/quantsavenue/static/js/main.9ba2ba75.chunk.js.map",
+    "main.css": "/quantsavenue/static/css/main.19e15fee.chunk.css",
+    "main.js": "/quantsavenue/static/js/main.99cd9ea5.chunk.js",
+    "main.js.map": "/quantsavenue/static/js/main.99cd9ea5.chunk.js.map",
     "runtime-main.js": "/quantsavenue/static/js/runtime-main.bba243bc.js",
     "runtime-main.js.map": "/quantsavenue/static/js/runtime-main.bba243bc.js.map",
     "static/css/2.17e5ed98.chunk.css": "/quantsavenue/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.fd43d36f.chunk.js": "/quantsavenue/static/js/2.fd43d36f.chunk.js",
-    "static/js/2.fd43d36f.chunk.js.map": "/quantsavenue/static/js/2.fd43d36f.chunk.js.map",
+    "static/js/2.1769816c.chunk.js": "/quantsavenue/static/js/2.1769816c.chunk.js",
+    "static/js/2.1769816c.chunk.js.map": "/quantsavenue/static/js/2.1769816c.chunk.js.map",
     "index.html": "/quantsavenue/index.html",
-    "precache-manifest.dedc124542a388ea39ca2a6b1e39b325.js": "/quantsavenue/precache-manifest.dedc124542a388ea39ca2a6b1e39b325.js",
+    "precache-manifest.cff4f6d0b325bc27b02d225196094cd0.js": "/quantsavenue/precache-manifest.cff4f6d0b325bc27b02d225196094cd0.js",
     "service-worker.js": "/quantsavenue/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/quantsavenue/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.a3790e5a.chunk.css.map": "/quantsavenue/static/css/main.a3790e5a.chunk.css.map",
-    "static/js/2.fd43d36f.chunk.js.LICENSE": "/quantsavenue/static/js/2.fd43d36f.chunk.js.LICENSE",
-    "static/media/header.png": "/quantsavenue/static/media/header.58f0ace4.png",
-    "static/media/logo.svg": "/quantsavenue/static/media/logo.5d5d9eef.svg"
+    "static/css/main.19e15fee.chunk.css.map": "/quantsavenue/static/css/main.19e15fee.chunk.css.map",
+    "static/js/2.1769816c.chunk.js.LICENSE": "/quantsavenue/static/js/2.1769816c.chunk.js.LICENSE",
+    "static/media/header.png": "/quantsavenue/static/media/header.58f0ace4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bba243bc.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.fd43d36f.chunk.js",
-    "static/css/main.a3790e5a.chunk.css",
-    "static/js/main.9ba2ba75.chunk.js"
+    "static/js/2.1769816c.chunk.js",
+    "static/css/main.19e15fee.chunk.css",
+    "static/js/main.99cd9ea5.chunk.js"
   ]
 }
