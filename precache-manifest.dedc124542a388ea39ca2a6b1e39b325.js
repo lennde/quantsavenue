@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f702463fdcc2379ff29aec0769e84ea8",
+    "revision": "ce0e7baf604a8b9e4e44c295edccb97d",
     "url": "/quantsavenue/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantsavenue/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "fb7301761b114ac08429",
+    "revision": "a0c63699c4744ac119f2",
     "url": "/quantsavenue/static/css/main.a3790e5a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantsavenue/static/js/2.fd43d36f.chunk.js.LICENSE"
   },
   {
-    "revision": "fb7301761b114ac08429",
-    "url": "/quantsavenue/static/js/main.989edf59.chunk.js"
+    "revision": "a0c63699c4744ac119f2",
+    "url": "/quantsavenue/static/js/main.9ba2ba75.chunk.js"
   },
   {
     "revision": "1769da9a9577d37e21ef",
