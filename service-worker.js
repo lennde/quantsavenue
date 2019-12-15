@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quantsavenue/precache-manifest.cff4f6d0b325bc27b02d225196094cd0.js"
+  "/quantsavenue/precache-manifest.468b06376fbcfd6cb62e17c87c3a87ca.js"
 );
 
 self.addEventListener('message', (event) => {
